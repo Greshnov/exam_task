@@ -1,6 +1,12 @@
 # Exam task
 Position: Data Engineer (2026)
 
-[Option 1 - dbt project](/DataEngineer/dbt.md) 
+**Выберите один из вариантов задания:**
 
-Option 2 - sql query 
+- [Option 1 - dbt project](/DataEngineer/dbt.md) 
+
+- [Option 2 - sql query](/DataEngineer/sql.md) 
+
+Предоставьте результат выполнения в виде ссылки на репозиторий с решением.
+
+На онлайн-встрече необходимо продемонстрировать рабочее решение, ответить на вопросы, внести небольшие правки.
